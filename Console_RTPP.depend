@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1523602101 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\flightpatterngenerator.cpp
+	"FlightPatternGenerator.h"
+	".\flightpatterngenerator.h"
+
+1177015322 c:\users\sotomanu\desktop\2018\git\console_rtpp\flightpatterngenerator.h
+	<windows.h>
+	<math.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	"DFCS_ClassAndStructData.h"
+	"list.h"
+
+1164644210 c:\users\sotomanu\desktop\2018\git\console_rtpp\dfcs_classandstructdata.h
+
+1522795629 c:\users\sotomanu\desktop\2018\git\console_rtpp\list.h
+	<iostream>
+	<cassert>
+	"listnd.h"
+	"MessageBox_DebugDefines.h"
+
+962204062 c:\users\sotomanu\desktop\2018\git\console_rtpp\listnd.h
+
+1523599057 c:\users\sotomanu\desktop\2018\git\console_rtpp\messagebox_debugdefines.h
+
+1523602621 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\main.cpp
+	<iostream>
+	"MFCApplication1Doc.h"
+
+1523602109 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\mapcoordsfilegenerator.cpp
+	"MapCoordsFileGenerator.h"
+
+1523602114 c:\users\sotomanu\desktop\2018\git\console_rtpp\mapcoordsfilegenerator.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	"DFCS_ClassAndStructData.h"
+	"queue.h"
+	"listnd.h"
+	"list.h"
+
+1153168252 c:\users\sotomanu\desktop\2018\git\console_rtpp\queue.h
+	<iostream>
+	<cassert>
+	"queuend.h"
+
+1153146594 c:\users\sotomanu\desktop\2018\git\console_rtpp\queuend.h
+
+1523602426 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\mfcapplication1doc.cpp
+	"math.h"
+	"MFCApplication1Doc.h"
+
+1523599749 c:\users\sotomanu\desktop\2018\git\console_rtpp\mfcapplication1doc.h
+	"DFCS_ClassAndStructData.h"
+	"Listnd.h"
+	"List.h"
+	"MapCoordsFileGenerator.h"
+	"SmartArray.h"
+	"pathfinder.h"
+	"MinAGL.h"
+	"FlightPatternGenerator.h"
+
+1523602129 c:\users\sotomanu\desktop\2018\git\console_rtpp\smartarray.h
+	"List.h"
+	"DFCS_ClassAndStructData.h"
+
+1174786978 c:\users\sotomanu\desktop\2018\git\console_rtpp\pathfinder.h
+	<memory.h>
+	"AsIncludes.h"
+
+1174786978 c:\users\sotomanu\desktop\2018\git\console_rtpp\asincludes.h
+
+1523602134 c:\users\sotomanu\desktop\2018\git\console_rtpp\minagl.h
+
+1523602431 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\minagl.cpp
+	<iostream>
+	"MinAGL.h"
+
+1523602435 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\pathfinder.cpp
+	<math.h>
+	"PathFinder.h"
+
+1523602489 source:c:\users\sotomanu\desktop\2018\git\console_rtpp\smartarray.cpp
+	<iostream>
+	<cassert>
+	"SmartArray.h"
+	"MessageBox_DebugDefines.h"
+	<windows.h>
+
